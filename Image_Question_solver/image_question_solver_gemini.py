@@ -4,7 +4,7 @@ import os
 import google.generativeai as genai
 import google.api_core.exceptions
 
-genai.configure(api_key="AIzaSyAU4y4Ejl1z90wMqp76HTe--gC_qm2eZlo")
+genai.configure(api_key="GEMINI_APY_KEY_IS_HERE")
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
